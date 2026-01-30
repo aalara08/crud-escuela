@@ -8,7 +8,9 @@
 
 <h1>Lista de Alumnos</h1>
 
-<a href="create.php">Agregar Alumno</a>
+<a href="productos/index.php">Ir a pestaña Productos</a>
+<br><br>
+<a href="create.php">Agregar Alumnos</a>
 <br><br>
 
 <table border="1" cellpadding="8">
